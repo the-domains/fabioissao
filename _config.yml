@@ -1,0 +1,28 @@
+name: FabioIssao
+favicon: null
+layout_spectrum: 0.89320332929492
+typography_spectrum: 0.22353753680363297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4195336203556508
+  lightness: 0.09989814832806587
+  saturation: 0.024542898405343294
+  rhythmicContrast: 0.4139587823301554
+purpose: []
